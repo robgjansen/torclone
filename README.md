@@ -1,2 +1,2 @@
 # torclone
-New Tor fork is at github.com/robgjansen/tor
+New Tor fork is at https://github.com/robgjansen/tor
